@@ -1,0 +1,9 @@
+-docroot .
+-Q slf SLF
+-Q lib Lib
+-Q future Future
+-arg -w 
+-arg -implicit-core-hint-db,-ambiguous-paths
+slf
+lib
+future
